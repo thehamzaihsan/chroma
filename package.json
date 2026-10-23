@@ -11,28 +11,28 @@
   "dependencies": {
     "@hello-pangea/dnd": "^18.0.1",
     "chroma-js": "^3.2.0",
-    "colord": "^2.9.3",
+    "colord": "^2.10.0",
     "file-saver": "^2.0.5",
     "html2canvas": "^1.4.1",
     "jspdf": "^4.2.1",
-    "lucide-react": "^1.7.0",
-    "next": "16.2.2",
-    "react": "19.2.4",
-    "react-colorful": "^5.6.1",
-    "react-dom": "19.2.4",
-    "uuid": "^13.0.0",
-    "zustand": "^5.0.12"
+    "lucide-react": "^1.61.0",
+    "next": "16.4.2",
+    "react": "19.3.1",
+    "react-colorful": "^5.8.1",
+    "react-dom": "19.3.1",
+    "uuid": "^14.0.3",
+    "zustand": "^5.0.16"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/file-saver": "^2.0.7",
-    "@types/node": "^20",
+    "@types/node": "^26",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "@types/uuid": "^10.0.0",
-    "eslint": "^9",
-    "eslint-config-next": "16.2.2",
+    "@types/uuid": "^11.0.0",
+    "eslint": "^10",
+    "eslint-config-next": "16.4.2",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^7"
   }
 }
